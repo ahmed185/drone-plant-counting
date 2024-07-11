@@ -1,0 +1,6 @@
+train: ../ahmed1851/images/training
+val: ../ahmed1851/labels/validation
+#number of classes
+nc: 1
+#class names
+names: ['surfing']
